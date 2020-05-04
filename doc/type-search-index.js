@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"warriors.contracts","l":"GameStatus"},{"p":"warriors.contracts","l":"IGameState"},{"p":"warriors.contracts","l":"IHero"},{"p":"warriors.contracts","l":"IMap"},{"p":"warriors.contracts","l":"IWarriorsAPI"}]
